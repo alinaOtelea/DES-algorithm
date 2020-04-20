@@ -3,7 +3,6 @@
 Data Encryption Standard  -
 Triple DES –
 Otelea Alina- Alexandra
-Grupa: 301
 
 
 
